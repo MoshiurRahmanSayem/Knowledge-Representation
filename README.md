@@ -56,7 +56,7 @@ Represents Hogwarts house assignments with constraints:
 ### Installation
 1. Clone the repository:
    bash
-   git clone https://github.com/your-username/ai-knowledge-representation.git
+   git clone https://github.com/MoshiurRahmanSayem/ai-knowledge-representation.git
    
 2. Navigate to the directory:
    bash
@@ -88,5 +88,5 @@ pip install termcolor
 
 
 ## License
-This project is licensed under the MIT License. See LICENSE for more details.
+This project is no licensed
 
